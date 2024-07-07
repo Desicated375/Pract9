@@ -1,0 +1,3 @@
+D:/Games/Projectsforprog/Cprogramis/cmake-build-debug/CMakeFiles/Cprogramis.dir
+D:/Games/Projectsforprog/Cprogramis/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Games/Projectsforprog/Cprogramis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
